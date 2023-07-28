@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nehemias Muñoz
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nehemias Muñoz
 ======================================================================================================================================
 Soy un estudiante egresado de programación y análisis de sistemas con tres años de experiencia en el campo. Actualmente, estoy cursando la carrera de Ingeniería en Computación e Informática, donde he adquirido conocimientos avanzados en el diseño, desarrollo y mantenimiento de sistemas informáticos. Además, he participado en un curso de formación en el área de full stack java, donde he aprendido a utilizar herramientas como MySQL, Java, Spring, Html, Css, Bootstrap y Javascript para crear aplicaciones web dinámicas y responsivas. Me considero un profesional con iniciativa, creatividad y capacidad de trabajo en equipo, siempre dispuesto a aprender y afrontar nuevos retos.
 Software developer
